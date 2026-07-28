@@ -3,7 +3,7 @@
  * Add your browser-restricted YouTube Data API v3 key below.
  */
 window.JIXEGO_CONFIG = Object.freeze({
-  YOUTUBE_API_KEY: "",
+  YOUTUBE_API_KEY: "AIzaSyDE8cvYthlOLUqIh49GWTFKxAsXCJ5oLoY",
   CHANNEL_HANDLE: "@jixegolive",
   CHANNEL_URL: "https://www.youtube.com/@jixegolive",
   CACHE_MINUTES: 15
