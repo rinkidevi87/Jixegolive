@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charming-entremet-5e647a.netlify.app/sitemap.xml
